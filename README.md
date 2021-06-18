@@ -51,7 +51,8 @@ I'm Sanjay, an aspiring software engineer from Coimbatore.
 
 #### 🌱 Currently Learning
 <div align="center">
-  <img src='https://img.shields.io/static/v1?label=&message=react&color=61DAFB&style=for-the-badge&logo=react&logoColor=black' />  
+  <img src='https://img.shields.io/static/v1?label=&message=react.js&color=61DAFB&style=for-the-badge&logo=react&logoColor=black' />  
+  <img src='https://img.shields.io/static/v1?label=&message=three.js&color=000000&style=for-the-badge&logo=three.js&logoColor=white' />
   <img src='https://img.shields.io/static/v1?label=&message=angular&color=DD0031&style=for-the-badge&logo=angular' />
   <img src='https://img.shields.io/static/v1?label=&message=jenkins&color=D24939&style=for-the-badge&logo=jenkins&logoColor=white' />
   <img src='https://img.shields.io/static/v1?label=&message=tensorflow&color=FF6F00&style=for-the-badge&logo=tensorflow&logoColor=white' />
