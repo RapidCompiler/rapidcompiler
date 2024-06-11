@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Sanjay, an aspiring software engineer from Coimbatore.
+I'm Sanjay, an aspiring software engineer from Melbourne!
 
 #### 📫 How to reach me
 <div align='center'>
