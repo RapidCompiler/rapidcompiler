@@ -19,7 +19,7 @@ I'm Sanjay, an aspiring software engineer from Melbourne!
 #### 📫 How to reach me
 <div align='center'>
   <a href='https://sanjay-suresh-resume.netlify.app' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Website&message=sanjay-suresh-resume.netlify.app&color=blue&style=for-the-badge&logo=google%20chrome&logoColor=white' />
+    <img src='https://img.shields.io/static/v1?label=Website&message=portfolio&color=blue&style=for-the-badge&logo=google%20chrome&logoColor=white' />
   </a>
   <a href='https://www.linkedin.com/in/sanjusuresh2001/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=sanjaysuresh&color=blue&style=for-the-badge&logo=linkedin' />  
